@@ -28,7 +28,7 @@ Natural language processing and text classification is a rapidly advancing field
 
 
 ```
-@misc{Miric2022,
+@article{Miric2022,
   author = {Miric, Milan and Jia, Nan and Huang, Kenneth},
   title = {Comparison of Machine Learning and Keyword Methods for Large-Scale Classification in Management Research: The Case of Identifying Artificial Intelligence Patents},
   year = {2022},
