@@ -10,11 +10,11 @@ Researchers increasingly use unstructured text data to construct quantitative va
 
 This online repository contains the code needed to reconstruct the tables and figures from the paper. We demonstrate several classification approaches: 
 
-- Notebook A. Text Classification with a Bag-of-Words Representation
-- Notebook B. Text Classification with a Embedding Based Text Representation
-- Notebook C. Text Classification using a Convolutional Neural Network (both Bow and Embedding based Representation) 
-- Notebook D. Text CLassification using Transformer Based Models
-- Notebook X. Summary and Comparison of Different Classification Approaches
+- **Notebook A**. Text Classification with a Bag-of-Words Representation
+- **Notebook B**. Text Classification with a Embedding Based Text Representation
+- **Notebook C**. Text Classification using a Convolutional Neural Network (both Bow and Embedding based Representation) 
+- **Notebook D**. Text CLassification using Transformer Based Models
+- **Notebook X**. Summary and Comparison of Different Classification Approaches
 
 Notebooks are shown in GitHub but you can explort and open in Google Colab to replicate and utilize in own research projects. 
 
