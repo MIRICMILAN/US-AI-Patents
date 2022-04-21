@@ -1,4 +1,4 @@
-# US-AI-Patents
+# Identification of AI Related Patents with Machine Learning
 
 Code and Data for: Miric, M., Jia, N. and Huang, K. (Forthcoming) **Comparison of Machine Learning and Keyword Methods for Large-Scale Classification in Management Research: The Case of Identifying Artificial Intelligence Patents.** *Strategic Management Journal*.
 
