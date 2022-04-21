@@ -18,12 +18,18 @@ This online repository contains the code needed to reconstruct the tables and fi
 
 Notebooks are shown in GitHub but you can explort and open in Google Colab to replicate and utilize in own research projects. 
 
+## License & Reuse 
+
+This code is availible with a xx license. You are welcome to use, or reuse the code as you wish. We hope that if you find this work helpful you will cite the associated conference paper. 
+
+Natural language processing and text classification is a rapidly advancing field. We hope to keep this repository updated and add new code, extensions or updated data as they become availible. If you would like us to link or share additional extensions, please let us know. 
+
 ## Citation 
 
 
 ```
 @misc{Miric2022,
-  author = {Miric, Milan},
+  author = {Miric, Milan and Jia, Nan and Huang, Kenneth},
   title = {Comparison of Machine Learning and Keyword Methods for Large-Scale Classification in Management Research: The Case of Identifying Artificial Intelligence Patents},
   year = {2022},
   journal = {Strategic Management Journal}
