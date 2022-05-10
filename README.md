@@ -20,7 +20,7 @@ Notebooks are shown in GitHub but you can explort and open in Google Colab to re
 
 ## License & Reuse 
 
-This code is availible with a xx license. You are welcome to use, or reuse the code as you wish. We hope that if you find this work helpful you will cite the associated conference paper. 
+This code is availible with a _Attribution-NonCommercial_ (CC BY-NC) license. You are welcome to use, or reuse the code as you wish. We hope that if you find this work helpful you will cite the research paper. 
 
 Natural language processing and text classification is a rapidly advancing field. We hope to keep this repository updated and add new code, extensions or updated data as they become availible. If you would like us to link or share additional extensions, please let us know. 
 
