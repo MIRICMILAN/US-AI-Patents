@@ -1,6 +1,6 @@
-# Identification of AI Related Patents with Machine Learning
+# Using Supervised Machine Learning for Large-Scale Classification in Management Research
 
-Code and Data for: Miric, M., Jia, N. and Huang, K. (Forthcoming) **Comparison of Machine Learning and Keyword Methods for Large-Scale Classification in Management Research: The Case of Identifying Artificial Intelligence Patents.** *Strategic Management Journal*.
+Code and Data for: Miric, M., Jia, N. and Huang, K. (Forthcoming) **Using Supervised Machine Learning for Large-Scale Classification In Management Research: The Case For Identifying Artificial Intelligence Patents.** *Strategic Management Journal*.
 
 ## Abstract 
 
