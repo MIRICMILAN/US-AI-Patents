@@ -10,7 +10,7 @@ Researchers increasingly use unstructured text data to construct quantitative va
 
 This online repository contains the code needed to reconstruct the tables and figures from the paper. We demonstrate several classification approaches: 
 
-- **Notebook A**. Text Classification with a Bag-of-Words Representation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) 
+- **Notebook A**. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)  Text Classification with a Bag-of-Words Representation 
 - **Notebook B**. Text Classification with a Embedding Based Text Representation
 - **Notebook C**. Text Classification using a Convolutional Neural Network (both Bow and Embedding based Representation) 
 - **Notebook D**. Text CLassification using Transformer Based Models
