@@ -1,6 +1,6 @@
 # Using Supervised Machine Learning for Large-Scale Classification in Management Research
 
-Code and Data for: Miric, M., Jia, N. and Huang, K. (Forthcoming) **Using Supervised Machine Learning for Large-Scale Classification In Management Research: The Case For Identifying Artificial Intelligence Patents.** *Strategic Management Journal*.
+Code and Data for: Miric, M., Jia, N., & Huang, K. G. (2023). **Using supervised machine learning for large-scale classification in management research: The case for identifying artificial intelligence patents.** *Strategic Management Journal*, 44(2), 491–519. [[https://doi.org/10.1002/smj.3441](https://doi.org/10.1002/smj.3441)].
 
 ## Abstract 
 
@@ -28,12 +28,15 @@ Natural language processing and text classification is a rapidly advancing field
 
 
 ```
-@article{Miric2022,
-  author = {Miric, Milan and Jia, Nan and Huang, Kenneth},
-  title = {Using Supervised Machine Learning for Large-Scale Classification In Management Research: The Case For Identifying Artificial Intelligence Patents},
-  year = {2022},
-  journal = {Strategic Management Journal}
+@article{miric2023using,
+  title={Using supervised machine learning for large-scale classification in management research: The case for identifying artificial intelligence patents},
+  author={Miric, Milan and Jia, Nan and Huang, Kenneth G},
+  journal={Strategic Management Journal},
+  volume={44},
+  number={2},
+  pages={491--519},
+  year={2023},
+  publisher={Wiley Online Library}
 }
 ```
 
-## Acknowledggements 
